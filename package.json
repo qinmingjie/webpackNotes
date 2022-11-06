@@ -1,0 +1,23 @@
+{
+  "name": "webpacknotes",
+  "version": "1.0.0",
+  "description": "webpack深入浅出阅读笔记及demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinmingjie/webpackNotes.git"
+  },
+  "author": "qinmj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinmingjie/webpackNotes/issues"
+  },
+  "homepage": "https://github.com/qinmingjie/webpackNotes#readme",
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
